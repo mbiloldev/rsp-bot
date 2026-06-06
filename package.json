@@ -1,0 +1,12 @@
+{
+  "name": "tosh-qaychi-qogoz-bot",
+  "version": "1.0.0",
+  "description": "Telegram Tosh Qaychi Qog'oz o'yin boti",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
